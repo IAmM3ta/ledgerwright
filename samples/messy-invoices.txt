@@ -1,0 +1,61 @@
+--- forwarded mess from the shared inbox ---
+
+From: ap@northstarplumbing.example
+Subj: inv 4417
+
+NORTHSTAR PLUMBING
+Invoice #4417
+March 14, 2026
+Bill to: Riverside Cafe (Attn: Dana)
+
+Labor, 4 hrs @ $95/hr
+Angle stop valve $42.10
+Disposal gasket $6.40
+Tax? they said 7% but it isn't written.
+Note: paid cash $200 on site, balance still due.
+
+----
+
+Quickbooks paste that got corrupted:
+
+Vendor,Harbor Electric Co
+No. HE-2091
+Date: 2026-04-02
+Customer: Riverside Cafe
+1 x panel inspection 180.00
+3 x GFCI device @ 28.50
+Trip charge 45
+TOTAL 310.50   PAID IN FULL by card on 4/3. tax included, they said.
+
+----
+
+handwritten photo OCR:
+
+bill from CEDAR & RYE linen
+to riverside
+apr 8 2026
+napkins 20 dozen @ 4.25
+tablecloths 8 @ 14
+NO TAX (resale)
+not paid. net 15. no invoice number on the slip.
+their email is ar@cedarandrye.example
+
+----
+
+CREDIT — Blue Ridge Produce
+CM-88  April 18 2026
+Riverside Cafe
+Returned 2 cases mixed greens, credit $64.00
+(original invoice BP-1902 was $410.20, already paid)
+
+----
+
+email from the owner:
+
+hey can you also book the coffee from umstead roasters,
+they invoiced us "UR-775" on 4/22 for:
+- 12 lb house blend $168
+- 2 cases oat milk $54
+delivery $12
+plus sales tax 7.00% I think
+we paid the delivery in cash and nothing else.
