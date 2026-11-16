@@ -10,7 +10,7 @@ The program is one file, `ledgerwright.py`. It uses the Python standard library 
 
 I am Metta Thomas. On GitHub I am [M3TA](https://github.com/IAmM3ta). The short bio I keep on that profile is HomoSentien. The company line is 3VE Inc. The location I list is worldwide. The longer pointer is [linktr.ee/M3TAV](https://linktr.ee/M3TAV).
 
-I build tools and write the technical record that goes with them. The public thread runs through living-field instruments and reaction-diffusion work ([morphogen](https://github.com/IAmM3ta/morphogen), [turing](https://github.com/IAmM3ta/turing), [MORPHOS](https://github.com/IAmM3ta/MORPHOS)), EEG and cymatics ([MODE](https://github.com/IAmM3ta/MODE-Music-Ontological-Data-Extractor)), and the boring problem of not losing the thread in a long automation ([llm-context-preservation](https://github.com/IAmM3ta/llm-context-preservation)). A lot of the other work is hardware, mobility, and paper that is not in a public repo.
+I build tools and write the technical record that goes with them. The public thread runs through living-field instruments and reaction-diffusion work ([morphogen](https://github.com/IAmM3ta/morphogen), [turing](https://github.com/IAmM3ta/turing), [MORPHOS](https://github.com/IAmM3ta/MORPHOS-APP)), EEG and cymatics ([MODE](https://github.com/IAmM3ta/MODE-Music-Ontological-Data-Extractor)), and the boring problem of not losing the thread in a long automation ([llm-context-preservation](https://github.com/IAmM3ta/llm-context-preservation)). A lot of the other work is hardware, mobility, and paper that is not in a public repo.
 
 The habit under all of it is the same. Take a thing apart. Do not paper over a gap. If a number was inferred, say so. If a repair would be a guess, do not make it.
 
